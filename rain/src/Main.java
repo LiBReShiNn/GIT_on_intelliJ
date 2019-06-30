@@ -17,12 +17,13 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("k hklnlnl");
+        System.out.println("k hklnlnl");
         System.out.println(args[0]);
         main2();
         main3();
         Imp impl = new Imp();
         impl.run();
-        Imp impl2 = new Imp("z케케케케",2);
+        Imp impl2 = new Imp("z케호로리 호리리 호로돗 케케케",2);
         impl2.run();
         impl.toString();
     }
