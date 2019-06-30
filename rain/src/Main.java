@@ -25,6 +25,8 @@ public class Main {
         impl.run();
         Imp impl2 = new Imp("z케호로리 호리리 호로돗 케케케",2);
         impl2.run();
+        Imp impl3 = new Imp("서브마스터 생성이라귯",25445);
+        impl3.run();
         impl.toString();
     }
 
